@@ -1,32 +1,30 @@
 # Nalluri Prasanth
 
-I build practical software and explore how data and machine learning can make applications more useful. My public projects cover AI applications, Python tooling, database systems and web development.
+I build practical applications with Python, JavaScript and SQL. My projects span AI applications, backend tools and database systems.
 
-[LinkedIn](https://www.linkedin.com/in/prasanth-nalluri/) · [Browse my projects](https://github.com/Nalluri-Prasanth?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/prasanth-nalluri/) · [Repositories](https://github.com/Nalluri-Prasanth?tab=repositories)
 
-## Selected projects
+**Selected work:** [AskSQL](https://github.com/Nalluri-Prasanth/AskSQL) · [InfoBridgeMax](https://github.com/Nalluri-Prasanth/InfoBridgeMax-Database-Management-System-with-Redis) · [Invoice Connector](https://github.com/Nalluri-Prasanth/QB_Connector_Invoice_Python_Fall_2025)
 
-### [AskSQL](https://github.com/Nalluri-Prasanth/AskSQL)
-A natural-language interface for querying an anime database. Combines T5-small fine-tuning with LoRA, SQLite queries and a Flask web interface.
+<details>
+<summary><strong>Project details and technologies</strong></summary>
 
-**Tools:** Python · Transformers · PEFT/LoRA · Flask · SQLite
+### AskSQL
 
-### [InfoBridgeMax](https://github.com/Nalluri-Prasanth/InfoBridgeMax-Database-Management-System-with-Redis)
+A natural-language interface for querying an anime database, combining T5-small fine-tuning with LoRA, SQLite queries and a Flask web interface.
+
+**Technologies:** Python · Transformers · PEFT/LoRA · Flask · SQLite
+
+### InfoBridgeMax
+
 A database web application built with PHP, MySQL and Redis, with Docker-based setup.
 
-**Tools:** PHP · MySQL · Redis · Docker
+**Technologies:** PHP · MySQL · Redis · Docker
 
-### [Invoice Connector](https://github.com/Nalluri-Prasanth/QB_Connector_Invoice_Python_Fall_2025)
+### Invoice Connector
+
 Python invoice-connector coursework with testing and code-quality workflows. This repository is a fork of the PNWCS course project.
 
-**Tools:** Python · Poetry · Ruff · pre-commit
+**Technologies:** Python · Poetry · Ruff · pre-commit
 
-## Technical interests
-
-- Building useful applications around data and machine learning
-- Developing backend tools and database-backed applications
-- Improving code clarity, documentation and developer workflows
-
-## Connect
-
-Find me on [LinkedIn](https://www.linkedin.com/in/prasanth-nalluri/) to connect and discuss projects.
+</details>
